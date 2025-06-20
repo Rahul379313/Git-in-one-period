@@ -1,0 +1,44 @@
+For Git Bash Note :-
+
+Following steps as ----
+
+1. git config --global user.name (Rahul)    # Name your git_Repose
+2. git config --global user.email (rahulkumar379313@gmail.com)     # Email of user Repose
+3. git config user.name     # This command line show or confirm your repose name of user
+4. git config user.email    # This command line also shows or confirm your email of user repose
+5. code .                   # That means open vs code through type off cmd line
+6. git init                 # Intialize
+7. ls -lart 		    # Shows hidden file
+8. git status 		    # Added file in your repose or Code, Project
+9. git add (index.html)     # Goes to staged
+10. git commit 		    # Add commits
+
+Now Route be changes ----------------------------------------------------------------------------------------------------------------------
+
+1. I (Insert)
+2. :wq (Exit)
+3. Initial commit
+4. touch             	    		# cmd line to create a blank files
+5. git add -A 		    		# Add file other file in staged area to track each other
+6. git checkout (index.html) 		# Recover file changes as written
+7. git checkout -f			# Recover all changes from each other file.
+8. git deff 				# Difference of changes form previous modified 
+9. git deff --stages 			# compare changes from previous changes or modification
+10. git commit -a -m "your commits" 	# skipped stages area
+11. git log				# to check all status
+
+new route changed --------------------------------------------------------------------------------------------------------------
+
+1. git status -s 				# Summerise git status check
+
+
+
+
+
+
+
+    
+
+
+
+
