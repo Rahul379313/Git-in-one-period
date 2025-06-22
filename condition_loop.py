@@ -1,5 +1,5 @@
 for i in range(10):
-    if (i <= 500):
+    if (i <= 10):
         print(i)
         i = 0
 
